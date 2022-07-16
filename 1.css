@@ -1,0 +1,91 @@
+body {
+ background-color: #2D4059;
+ font-size: medium;
+ font-family: Verdana, Helvetica, Arial, sans-serif;
+ line-height: 1,5em;
+}
+
+p {
+ color: #F07B3F;
+ margin-left: 2%;
+ 
+}
+h1, h2, h3 {
+ color: #EA5455;
+}
+h1 {
+ font-size: 170%;
+ text-align: center;
+}
+h2 {
+ font-size: 150%;
+}
+
+h3 {
+	font-size: 130%
+}
+
+a:link {
+	color: #2D4059;
+}
+
+a:visited {
+	color: #2D4059;
+}
+
+a:hover {
+	background: #2D4059;
+	color: #EA5455;
+}
+
+#hohli {
+ border-color: #EA5455;
+ border-width: 10px;
+ border-style: solid;
+ border-radius: 15px;
+ background-color: #EA5455;
+ color: #2D4059;
+ padding: 25px;
+ padding-left: 80px;
+ margin-left: 2%;
+ margin-right: 35%;
+ line-height: 1.9em;
+ background-image: url(img/Russia.jpeg);
+ background-size: 50px;
+ background-repeat: no-repeat;
+ background-position: 1.5% 5.5%;
+}
+
+#footer {
+	font-size: small;
+	font-family: serif;
+	text-align: center;
+	margin-top: 30px;
+}
+
+#special {
+ border-width: medium;
+ border-style: solid;
+ border-color: #F07B3F;
+ width: 30%;
+ 
+ text-align: center;
+ 
+ float: right;
+ 
+ margin-right: 2%;
+ margin-bottom: 3%;
+}
+
+#special h2 {
+	color: #F07B3F;
+}
+
+#special h3 {
+	margin-top: 20px;
+}
+
+#tit {
+	margin-bottom: 3%;
+}
+
